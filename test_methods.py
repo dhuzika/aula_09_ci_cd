@@ -34,7 +34,7 @@ def test_volume():
     # then the volume should be 40
     assert output == 40
 
-def test_surface_area_of_parallelepiped(length, width, height):
+def test_surface_area_of_parallelepiped():
     # given a length of 4, width of 2 and a height of 5
     length = 4
     width = 2
